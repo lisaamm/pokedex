@@ -166,25 +166,15 @@ Don't forget to give the project a star! Thanks again!
 
 List of people
 
-* [Me](https://github.com/JulesEfrei)
-- [Romain](https://github.com/RoromainM)
-- [Cristian](https://github.com/DemoxDev)
+
+
 - [Lisa](https://github.com/lisaamm)
-- [Gabriel](https://github.com/GabrielC0)
-- [Benjamin](https://github.com/bibil77)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Linked'in - [Jules](https://www.linkedin.com/in/jules-bruzeau/)
-
-GitHub Profile: [JulesEfrei](https://github.com/JulesEfrei/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
