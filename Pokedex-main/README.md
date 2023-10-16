@@ -161,14 +161,13 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- Credit -->
-## Credit
-
-List of people
 
 
 
-- [Lisa](https://github.com/lisaamm)
+
+
+
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
